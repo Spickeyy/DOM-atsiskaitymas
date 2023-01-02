@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "cs ts-13 first server",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch --port 5000 ./db.json"
+  },
+  "author": "Mindaugas Grigas",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1",
+    "run": "^1.4.0",
+    "start": "^5.1.0"
+  }
+}

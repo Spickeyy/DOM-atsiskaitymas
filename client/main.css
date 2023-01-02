@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(182, 196, 182);
+}
+.todo-form {
+    background-color: rgb(209, 231, 178);
+    width: 500px;
+    height: 280px;
+  }
